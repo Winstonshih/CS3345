@@ -1,0 +1,56 @@
+Insert:98
+Insert:67
+Insert:55
+Insert:45
+PrintTree
+Delete:84
+Delete:45
+Contains:45
+FindMin
+FindMax
+PrintTree
+Insert:98
+Insert:67
+Insert:55
+Insert:45
+PrintTree
+Delete:84
+Delete:45
+Contains:45
+FindMin
+FindMax
+PrintTree
+Height
+Size
+Insert:84
+Insert:32
+Insert:132
+PrintTree
+Insert:980
+Insert
+hih
+hello there
+Delete: 900
+Delete:45
+Delete:84
+Insert:45
+PrintTree
+Contains:-1
+Contains:9600
+Insert:
+Contains:
+
+Delete:
+Insert:$
+Delete:*
+Contains:)
+Insert: 9
+Contains: 92
+Delete: 85
+PrintTree:
+FindMin:
+FindMax:
+Height:
+Size:
+Height 
+ Height

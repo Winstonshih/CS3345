@@ -1,0 +1,56 @@
+True
+True
+True
+True
+98 67 55 45
+False
+True
+False
+45
+98
+98 67 55 *45
+False
+True
+True
+True
+67 55 45
+False
+True
+False
+45
+67
+67 55 *45
+2
+3
+True
+True
+Error in insert: IllegalArgumentException raised
+67 55 *45 32 84
+Error in insert: IllegalArgumentException raised
+Error in Line: Insert
+Error in Line: hih
+Error in Line: hello there
+Error in delete: IllegalArgumentException raised
+False
+True
+True
+67 55 45 32 *84
+Error in contains: IllegalArgumentException raised
+Error in contains: IllegalArgumentException raised
+Error in insert: IllegalArgumentException raised
+Error in contains: IllegalArgumentException raised
+Error in Line: 
+Error in delete: IllegalArgumentException raised
+Error in insert: IllegalArgumentException raised
+Error in delete: IllegalArgumentException raised
+Error in contains: IllegalArgumentException raised
+Error in insert: IllegalArgumentException raised
+Error in contains: IllegalArgumentException raised
+Error in delete: IllegalArgumentException raised
+Error in Line: PrintTree:
+Error in Line: FindMin:
+Error in Line: FindMax:
+Error in Line: Height:
+Error in Line: Size:
+Error in Line: Height 
+Error in Line:  Height
